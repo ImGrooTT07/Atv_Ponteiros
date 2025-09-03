@@ -13,8 +13,6 @@ Ou seja, em vez de guardar um valor diretamente, um ponteiro guarda **onde o val
 
 Neste projeto, foram aplicados para acessar variáveis, percorrer vetores, percorrer matrizes, calcular totais, médias, inverter elementos e analisar dados de forma eficiente.  
 
-## ⭐Exemplos  
-
 - Utilizar ponteiros para imprimir os valores e os endereços de memória.  
 - Utilizar ponteiros para percorrer o vetor.
 - Utilizar ponteiros para preencher as horas e calcular o total de horas do mês.
