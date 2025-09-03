@@ -1,4 +1,4 @@
-# Projeto: Exercícios com Ponteiros em C
+# Exercícios com Ponteiros em C
 
 Este projeto contém uma série de exercícios em linguagem C que exploram o uso de **ponteiros** para manipulação de variáveis e matrizes.
 
@@ -15,9 +15,9 @@ Neste projeto, foram aplicados para acessar variáveis, percorrer vetores, perco
 
 ## ⭐Exemplos  
 
-- Utilizar ponteiros para imprimir o valor e o endereço de memória.  
+- Utilizar ponteiros para imprimir os valores e os endereços de memória.  
 - Utilizar ponteiros para percorrer o vetor.
-- Usar ponteiros para preencher as horas e somar o total de horas do mês.
-- Utilizar ponteiros para acessar e trocar os elementos do vetor e inverter a ordem das notas.
-- Calcular a soma da diagonal principal utilizando aritmética de ponteiros.
+- Utilizar ponteiros para preencher as horas e calcular o total de horas do mês.
+- Utilizar ponteiros para acessar e trocar os elementos do vetor, invertendo a ordem das notas.
+- Utilizar ponteiros para calcular a soma da diagonal principal de uma matriz.
 
